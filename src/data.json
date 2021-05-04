@@ -1,0 +1,122 @@
+[{
+  "id": 1,
+  "name": "David de Gea",
+  "position": "Goalkeeper",
+  "nationality": "Spain",
+  "salary": 120000,
+  "jersey": 1,
+  "pic": "https://i.ibb.co/VT8Z7dT/David-de-Gea.jpg"
+}, {
+  "id": 2,
+  "name": "LEE GRANT",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "salary": 130000,
+  "jersey": 13,
+  "pic": "https://i.ibb.co/vH6nR3r/LEE-GRANT.jpg"
+}, {
+  "id": 3,
+  "name": "VICTOR LINDELOF",
+  "position": "Defender",
+  "nationality": "Sweden",
+  "salary": 140000,
+  "jersey": 2,
+  "pic": "https://i.ibb.co/cxk37Zk/VICTOR-LINDELOF.jpg"
+}, {
+  "id": 4,
+  "name": "ERIC BAILLY",
+  "position": "Defender",
+  "nationality": "Ivory Coast",
+  "salary": 220000,
+  "jersey": 3,
+  "pic": "https://i.ibb.co/MsgBygs/ERIC-BAILLY.jpg"
+}, {
+  "id": 5,
+  "name": "PHIL JONES",
+  "position": "Defender",
+  "nationality": "England",
+  "salary": 125000,
+  "jersey": 4,
+  "pic": "https://i.ibb.co/VWWv2Mk/PHIL-JONES.jpg"
+}, {
+  "id": 6,
+  "name": "HARRY MAGUIRE",
+  "position": "Defender",
+  "nationality": "England",
+  "salary": 142000,
+  "jersey": 5,
+  "pic": "https://i.ibb.co/mJN5xq9/LEICESTER-ENGLAND-OCTOBER-06-Harry-Maguire-of-Leicester-in-action-during-the-Premier-League-match-be.jpg"
+}, {
+  "id": 7,
+  "name": "LUKE SHAW",
+  "position": "Defender",
+  "nationality": "England",
+  "salary": 147000,
+  "jersey": 23,
+  "pic": "https://i.ibb.co/ngNP1MG/LUKE-SHAW.jpg"
+}, {
+  "id": 8,
+  "name": "PAUL POGBA",
+  "position": "Midfielder",
+  "nationality": "France",
+  "salary": 320000,
+  "jersey": 6,
+  "pic": "https://i.ibb.co/Q63wWxs/PAUL-POGBA.jpg"
+}, {
+  "id": 9,
+  "name": "JUAN MATASHIRT",
+  "position": "Midfielder",
+  "nationality": "Spain",
+  "salary": 256000,
+  "jersey": 8,
+  "pic": "https://i.ibb.co/WGHCmtM/JUAN-MATASHIRT.jpg"
+}, {
+  "id": 10,
+  "name": "JESSE LINGARD",
+  "position": "Midfielder",
+  "nationality": "England",
+  "salary": 211000,
+  "jersey": 14,
+  "pic": "https://i.ibb.co/kD2Knm2/JESSE-LINGARD.jpg"
+}, {
+  "id": 11,
+  "name": "ANDREAS PEREIRA",
+  "position": "Midfielder",
+  "nationality": "Brazil",
+  "salary": 232000,
+  "jersey": 16,
+  "pic": "https://i.ibb.co/vZKCjSF/ANDREAS-PEREIRA.jpg"
+}, {
+  "id": 12,
+  "name": "EDINSON CAVANI",
+  "position": "Forward",
+  "nationality": "Uruguayan",
+  "salary": 395000,
+  "jersey": 7,
+  "pic": "https://i.ibb.co/r5YXwVS/EDINSON-CAVANI.jpg"
+}, {
+  "id": 13,
+  "name": "ANTHONY MARTIAL",
+  "position": "Forward",
+  "nationality": "France",
+  "salary": 295000,
+  "jersey": 9,
+  "pic": "https://i.ibb.co/68G4FLw/ANTHONY-MARTIAL.jpg"
+}, {
+  "id": 14,
+  "name": "MARCUS RASHFORD",
+  "position": "Forward",
+  "nationality": "England",
+  "salary": 256000,
+  "jersey": 10,
+  "pic": "https://i.ibb.co/Bsk4sr4/Manchester-United-s-Marcus-Rashford-celebrates-scoring-his-side-s-third-goal-of-the-game-during-the.jpg"
+}, {
+  "id": 15,
+  "name": "AXEL TUANZEBE",
+  "position": "Defender",
+  "nationality": "England",
+  "salary": 189000,
+  "jersey": 59,
+  "pic": "https://i.ibb.co/hypLMsQ/AXEL-TUANZEBE.jpg"
+}]
+
